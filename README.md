@@ -1,6 +1,6 @@
 # GIS-portfolio
 This portfolio includes all my GIS related projects.
-# Spatial Indices Analysis
+1 # Spatial Indices Analysis
 
 This project presents several spatial indices derived from Landsat satellite imagery. 
 These indices help analyze vegetation condition, water bodies, and moisture levels in the study area. 
